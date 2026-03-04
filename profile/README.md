@@ -12,7 +12,13 @@ All projects here are designed to be compatible with the EVerest open source cha
 
 ## 🚀 Projects
 
-### ChargeBridge  
+### ChargeBridge Design Files
+
+Use these files to design ChargeBridge into your project:
+
+**[cb-sat-ac](https://github.com/PionixPublic/chargebridge-designfiles)**
+
+### ChargeBridge Reference Designs
 - **[cb-sat-ac](https://github.com/PionixPublic/cb-sat-ac)** — CCS AC-satellite reference design for ChargeBridge  
 - **[cb-eval-board](https://github.com/PionixPublic/cb-eval-board)** — Evaluation board for ChargeBridge, for testing and prototyping.  
 
