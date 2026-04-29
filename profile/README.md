@@ -37,5 +37,7 @@ Note: for future projects, use the ChargeBridge based designs.
 - 🌐 [Pionix Official Website](https://pionix.com)  
 - 📚 Explore individual repositories for detailed documentation, usage instructions, and contribution guidelines.
 
+---
+
 ### Virtual Charger Parks
 - **[vcp-examples](https://github.com/PionixPublic/vcp-examples)** — Examples on how to create and interact with EVerest based Virtual Charger Parks
